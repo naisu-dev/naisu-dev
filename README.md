@@ -1,7 +1,7 @@
 # Hi there
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naisu-dev
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/anuraghazra/github-readme-stats,height=150px)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naisu-dev
 )](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=naisu-dev
