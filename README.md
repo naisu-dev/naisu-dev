@@ -1,6 +1,6 @@
 # Hi there
-<img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default"><br>
-<img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=naisu-dev"><br>
+<img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default">
+<img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=naisu-dev">
 <img scr = "https://github-readme-stats.vercel.app/api?username=naisu-dev">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=naisu-dev
 )](https://github.com/ryo-ma/github-profile-trophy)  
