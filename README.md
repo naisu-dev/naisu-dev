@@ -1,5 +1,5 @@
 # Hi there
-<img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default">
+<img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default"></img>
 <img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=naisu-dev",width=53.6%>
 <img scr = "https://github-readme-stats.vercel.app/api?username=naisu-dev",width=44.3%>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=naisu-dev
