@@ -1,4 +1,4 @@
-# Hi there
+# Hi there [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20naisu-dev)](https://github.com/naisu-dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naisu-dev
 )](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naisu-dev
