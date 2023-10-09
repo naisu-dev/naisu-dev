@@ -5,5 +5,5 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=naisu-dev
 )](https://github.com/ryo-ma/github-profile-trophy)
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20naisu-dev)](https://github.com/naisu-dev)
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20naisu_dayo)](https://twitter.com/naisu_dayo)
+[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20naisu_dev_dayo)](https://twitter.com/naisu_dev_dayo)
