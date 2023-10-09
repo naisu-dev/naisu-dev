@@ -1,7 +1,7 @@
 # welcome
- Hello everyone!
- My name is naisu.
- Let's work together!
+ Hello everyone!  
+ My name is naisu.  
+ Let's work together!  
 
 # 📊 GitHub Stats:
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naisu-dev&theme=dracula" /><br/>
