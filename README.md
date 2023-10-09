@@ -6,8 +6,6 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SNQ-2001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=naisu-dev
-)](https://github.com/ryo-ma/github-profile-trophy)  
 
 # 🌐 Socials
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20naisu_dayo)](https://twitter.com/naisu_dayo)
