@@ -12,4 +12,3 @@
 
 # 🌐 Socials
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20naisu_dayo)](https://twitter.com/naisu_dayo)
-[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20naisu_dev_dayo)](https://twitter.com/naisu_dev_dayo)
