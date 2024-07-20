@@ -1,1 +1,1 @@
-discord: naisu.app
+discord: naisu.moe
