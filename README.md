@@ -1,2 +1,2 @@
-discord: naisu.moe  
-あなたもクソコード同盟に入りませんか？
+連絡はここまで discord -> naisu.moe  
+ホームページ -> https://naisu.moe
